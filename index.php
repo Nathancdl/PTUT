@@ -14,7 +14,7 @@
 				}
 				else
 				{
-					$erreur = "Vous devez être connecté pour voir cette page";
+					$erreur = "Vous devez être connecté pour voir cette page.";
 				$_GET['page'] = "identification";
 				}
 			}
